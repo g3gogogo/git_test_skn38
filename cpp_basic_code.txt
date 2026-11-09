@@ -1,0 +1,16 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+typdef long long ll;
+typedef pair<int, int> pii;
+
+
+
+int main()
+{
+    ios::sync_with_stdio(0); cin.tio(0)
+
+
+
+    return 0;
+}
